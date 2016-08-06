@@ -1,0 +1,32 @@
+_repo: American-Big-Game-in-Its-Haunts--13-The-Book-of-the-Boone-and-Crockett-Club_10445
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Grinnell, George Bird
+    birthdate: 1849
+    deathdate: 1938
+    gutenberg_agent_id: '4021'
+    url: http://www.gutenberg.org/2009/agents/4021
+    wikipedia: http://en.wikipedia.org/wiki/George_Bird_Grinnell
+description: ''
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10445'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Big game hunting -- United States'
+- !lcc 'SK'
+- GITenberg
+tableOfContents: Wilderness reserves / T. Roosevelt -- The zoology of North American
+  big game / A.E. Brown -- Big game shooting in Alaska / J.H. Kidder -- The Kadiak
+  bear and his home / W.L. Smith -- The mountain sheep and its range / G.B. Grinnell
+  -- Preservation of the wild animals of North America / H.F. Osborn -- Distribution
+  of the moose / M. Grant -- The creating of game refuges / A. Sampson -- Temiskaming
+  moose / P.J. Dashiell -- Two trophies from India / J.H. Prentice -- Big-game refuges
+  -- Forest reserves of North America.
+title: 'American Big Game in Its Haunts: The Book of the Boone and Crockett Club'
+url: http://www.gutenberg.org/ebooks/10445
